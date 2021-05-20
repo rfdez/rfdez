@@ -13,9 +13,7 @@ export default class About extends Me {
 
     public getDailyKnowledge() {
         return [
-            'C# with .NET Framework',
-            'PHP with Laravel',
-            'Javascript with Svelte',
+            'C# with .NET Framework and .NET Core',
             'Docker'
         ];
     }

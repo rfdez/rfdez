@@ -13,7 +13,8 @@ export default class About extends Me {
 
     public getDailyKnowledge() {
         return [
-            'C# with .NET Framework and .NET Core',
+            'C# with .NET Framework and .NET Core. Oracle database and SQL Server',
+            'Wordpress and MySQL database',
             'Docker'
         ];
     }
@@ -21,7 +22,6 @@ export default class About extends Me {
     public getFutureGoals() {
         return [
             'Keep learning every day, obviously',
-            'use typescript with javascript',
             'to contribute to open source'
         ];
     }

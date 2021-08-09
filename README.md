@@ -14,7 +14,6 @@ export default class About extends Me {
     public getDailyKnowledge() {
         return [
             'C# with .NET Framework and .NET Core. Oracle database and SQL Server',
-            'Wordpress and MySQL database',
             'Docker'
         ];
     }

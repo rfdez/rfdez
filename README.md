@@ -20,7 +20,7 @@ export default class About extends Me {
 
     public getFutureGoals() {
         return [
-            'Keep learning about clean code, S.O.L.I.D. principles and clean architecture',
+            'Keep learning about clean code, S.O.L.I.D. principles, Testing and clean architecture',
             'Improve my English',
             'to contribute to open source'
         ];

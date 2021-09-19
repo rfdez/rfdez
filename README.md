@@ -7,7 +7,7 @@ export default class About extends Me {
     public getCurrentWorkplace() {
         return {
             company: 'Gestión Tributaria Territorial',
-            position: 'Full Stack Developer'
+            position: 'Backend Developer'
         };
     }
 

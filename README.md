@@ -40,7 +40,7 @@ export default class About extends Me {
   <img width="460" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rfdez&langs_count=10&layout=compact">
 </p>
 
-### Codewars <a href="https://www.codewars.com/"><img width="24" height="24" src="https://www.codewars.com/assets/logos/logo-61192cf7c75904d495e7ad69695fbf0bffd965bc3e17ac60f6c6b475304db09d.svg"></a>
+### Codewars 🏆
 
 <p align="center">
   <img src="https://www.codewars.com/users/rfdez/badges/large">

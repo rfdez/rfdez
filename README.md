@@ -6,15 +6,16 @@ export default class About extends Me {
 
     public getCurrentWorkplace() {
         return {
-            company: 'Gestión Tributaria Territorial',
-            position: 'Backend Developer'
+            company: 'FLEXIWATT SMARTGRID SL',
+            position: 'Full Stack Developer'
         };
     }
 
     public getDailyKnowledge() {
         return [
-            'C# with .NET Framework and .NET Core. Oracle database and SQL Server',
-            'Docker'
+            'Go and PostgreSQL',
+            'Docker',
+            'Kubernetes'
         ];
     }
 

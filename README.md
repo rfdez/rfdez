@@ -1,63 +1,41 @@
-### Hi there 👋
-
-```typescript
-
-export default class About extends Me {
-
-    public getCurrentWorkplace() {
-        return {
-            company: 'FLEXIWATT SMARTGRID SL',
-            position: 'Full Stack Developer'
-        };
-    }
-
-    public getDailyKnowledge() {
-        return [
-            'Go and PostgreSQL',
-            'Docker',
-            'Kubernetes'
-        ];
-    }
-
-    public getFutureGoals() {
-        return [
-            'Keep learning about clean code, S.O.L.I.D. principles, Testing and clean architecture',
-            'Improve my English',
-            'to contribute to open source'
-        ];
-    }
-
-}
-
-```
-
-### Stats 📊
+[![Raúl's GitHub Banner](https://picsum.photos/800/300)](https://raulfernandez.dev)
 
 <p align="center">
-  <img width="460" height="300" src="https://github-readme-stats.vercel.app/api?username=rfdez&show_icons=true&theme=tokyonight">
+    <a href="https://www.linkedin.com/in/raul-fernandez-fernandez">
+        <img src="https://img.shields.io/badge/raúl_fernández-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
+    </a>
+    &ensp;
+    <a href="https://github.com/rfdez">
+        <img src="https://img.shields.io/badge/rfdez-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
 </p>
 
 <p align="center">
-  <img width="460" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rfdez&langs_count=10&layout=compact">
+    <a href="https://raulfernandez.dev">
+        <img src="https://img.shields.io/website-up-down-green-red/http/raulfernandez.dev.svg" alt="Website" />
+    </a>
 </p>
 
-### Codewars 🏆
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&multiline=true&width=650&height=60&lines=Hey+there%2C;I'm+Ra%C3%BAl+Fern%C3%A1ndez%2C+a+software+engineer+from+Spain.)](https://git.io/typing-svg)
 
-<p align="center">
-  <img src="https://www.codewars.com/users/rfdez/badges/large">
+## Current Stack :books:
+
+<div align="center">
+
+|                                       **Programming Lang**                                       |                                                    **Databases**                                                     |
+| :----------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------: |
+| ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) | ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) |
+
+</div>
+
+## GitHub Stats :bar_chart:
+
+<p align = "center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=rfdez&theme=rogue"/>
 </p>
 
-<!--
-**rfdez/rfdez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align = "center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rfdez&show_icons=true&theme=tokyonight"/>
+  &ensp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rfdez&langs_count=5&theme=tokyonight&layout=compact&hide=blade" />
+</p>

@@ -1,14 +1,22 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&multiline=true&width=650&height=60&lines=Hey+there%2C;I'm+Ra%C3%BAl+Fern%C3%A1ndez%2C+a+software+engineer+from+Spain.)](https://git.io/typing-svg)
+[![Raúl's GitHub Banner](https://picsum.photos/800/300)](https://raulfernandez.dev)
 
 <p align="center">
     <a href="https://www.linkedin.com/in/raul-fernandez-fernandez">
         <img src="https://img.shields.io/badge/raúl_fernández-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
     </a>
     &ensp;
+    <a href="https://github.com/rfdez">
+        <img src="https://img.shields.io/badge/rfdez-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+</p>
+
+<p align="center">
     <a href="https://raulfernandez.dev">
         <img src="https://img.shields.io/website-up-down-green-red/http/raulfernandez.dev.svg" alt="Website" />
     </a>
 </p>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&multiline=true&width=650&height=60&lines=Hey+there%2C;I'm+Ra%C3%BAl+Fern%C3%A1ndez%2C+a+software+engineer+from+Spain.)](https://git.io/typing-svg)
 
 ## Current Stack :books:
 

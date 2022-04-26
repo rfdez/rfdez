@@ -1,4 +1,4 @@
-[![Raúl's GitHub Banner](https://picsum.photos/800/300)](https://raulfernandez.dev)
+[![Raúl's GitHub Banner](./assets/banner.gif)](https://raulfernandez.dev)
 
 <p align="center">
     <a href="https://www.linkedin.com/in/raul-fernandez-fernandez">
@@ -15,8 +15,6 @@
         <img src="https://img.shields.io/website-up-down-green-red/http/raulfernandez.dev.svg" alt="Website" />
     </a>
 </p>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&multiline=true&width=650&height=60&lines=Hey+there%2C;I'm+Ra%C3%BAl+Fern%C3%A1ndez%2C+a+software+engineer+from+Spain.)](https://git.io/typing-svg)
 
 ## Current Stack :books:
 

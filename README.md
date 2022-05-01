@@ -1,39 +1,15 @@
-[![Raúl's GitHub Banner](./assets/banner.gif)](https://raulfernandez.dev)
+[![Raúl's GitHub Banner](https://user-images.githubusercontent.com/49290264/166144144-23b97921-c8a7-45b5-b9d5-1c1c34d231be.svg)](https://raulfernandez.dev)
 
-<p align="center">
-    <a href="https://www.linkedin.com/in/raul-fernandez-fernandez">
-        <img src="https://img.shields.io/badge/raúl_fernández-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
-    </a>
-    &ensp;
-    <a href="https://github.com/rfdez">
-        <img src="https://img.shields.io/badge/rfdez-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/raúl_fernández-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raul-fernandez-fernandez)
+&ensp;
+[![GitHub](https://img.shields.io/badge/rfdez-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rfdez)
+### Languages :abcd:
 
-<p align="center">
-    <a href="https://raulfernandez.dev">
-        <img src="https://img.shields.io/website-up-down-green-red/http/raulfernandez.dev.svg" alt="Website" />
-    </a>
-</p>
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
-## Current Stack :books:
+### Databases :floppy_disk:
 
-<div align="center">
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-|                                       **Programming Lang**                                       |                                                    **Databases**                                                     |
-| :----------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------: |
-| ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) | ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) |
-
-</div>
-
-## GitHub Stats :bar_chart:
-
-<p align = "center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=rfdez&theme=rogue"/>
-</p>
-
-<p align = "center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rfdez&show_icons=true&theme=tokyonight"/>
-  &ensp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rfdez&langs_count=5&theme=tokyonight&layout=compact&hide=blade" />
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rfdez&theme=tokyonight&layout=compact&card_width=250&hide=blade)](https://github.com/anuraghazra/github-readme-stats)&ensp;
+[![Raúl's GitHub stats](https://github-readme-stats.vercel.app/api?username=rfdez&theme=tokyonight&show_icons=true&line_height=20)](https://github.com/anuraghazra/github-readme-stats)

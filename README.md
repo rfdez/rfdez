@@ -11,5 +11,5 @@
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rfdez&theme=tokyonight&layout=compact&card_width=&hide=blade)](https://github.com/anuraghazra/github-readme-stats)&ensp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rfdez&theme=tokyonight&layout=compact&card_width=300&hide=blade)](https://github.com/anuraghazra/github-readme-stats)&ensp;
 [![Raúl's GitHub stats](https://github-readme-stats.vercel.app/api?username=rfdez&theme=tokyonight&show_icons=true&line_height=20)](https://github.com/anuraghazra/github-readme-stats)

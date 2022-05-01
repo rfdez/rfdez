@@ -1,4 +1,4 @@
-[![Raúl's GitHub Banner](https://user-images.githubusercontent.com/49290264/166144144-23b97921-c8a7-45b5-b9d5-1c1c34d231be.svg)](https://raulfernandez.dev)
+[![Raúl's GitHub Banner](https://user-images.githubusercontent.com/49290264/166145573-1aba6af7-20e0-4fe3-a3f0-f4335323eb94.png)](https://raulfernandez.dev)
 
 [![LinkedIn](https://img.shields.io/badge/raúl_fernández-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raul-fernandez-fernandez)
 &ensp;

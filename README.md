@@ -25,8 +25,6 @@
 
 ---
 
-<a href="https://www.linkedin.com/in/raul-fernandez-fernandez/">
+<a href="https://www.linkedin.com/in/rfdezdev/">
   <img align="left" alt="Raúl's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
 </a>
-
-&#9553; &nbsp;&nbsp;&nbsp; Website: [https://raulfernandez.dev](https://raulfernandez.dev)

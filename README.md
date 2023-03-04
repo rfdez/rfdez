@@ -6,8 +6,8 @@
 
 ![languages](https://img.shields.io/static/v1?label=&message=Languages:&color=111&style=flat)
 ![go](https://img.shields.io/static/v1?logo=go&label=&message=Go&color=36465D&logoColor=AAA&style=flat)
-![typescript](https://img.shields.io/static/v1?logo=typescript&label=&message=TypeScript*&color=36465D&logoColor=AAA&style=flat)
-![rust](https://img.shields.io/static/v1?logo=rust&label=&message=Rust*&color=36465D&logoColor=AAA&style=flat)
+![typescript](https://img.shields.io/static/v1?logo=typescript&label=&message=TypeScript+🎯&color=36465D&logoColor=AAA&style=flat)
+![rust](https://img.shields.io/static/v1?logo=rust&label=&message=Rust+🎯&color=36465D&logoColor=AAA&style=flat)
 &emsp;
 ![scripting](https://img.shields.io/static/v1?label=&message=Scripting:&color=111&style=flat)
 ![python](https://img.shields.io/static/v1?logo=python&label=&message=Python&color=36465D&logoColor=AAA&style=flat)
@@ -15,8 +15,8 @@
 &emsp;
 ![databases](https://img.shields.io/static/v1?label=&message=Databases:&color=111&style=flat)
 ![postgresql](https://img.shields.io/static/v1?logo=postgresql&label=&message=PostgreSQL&color=36465D&logoColor=AAA&style=flat)
-![mongodb](https://img.shields.io/static/v1?logo=mongodb&label=&message=MongoDB*&color=36465D&logoColor=AAA&style=flat)
-![redis](https://img.shields.io/static/v1?logo=redis&label=&message=Redis*&color=36465D&logoColor=AAA&style=flat)
+![mongodb](https://img.shields.io/static/v1?logo=mongodb&label=&message=MongoDB+🎯&color=36465D&logoColor=AAA&style=flat)
+![redis](https://img.shields.io/static/v1?logo=redis&label=&message=Redis+🎯&color=36465D&logoColor=AAA&style=flat)
 &emsp;
 ![ci/cd](https://img.shields.io/static/v1?label=&message=CI/CD:&color=111&style=flat)
 ![actions](https://img.shields.io/static/v1?logo=github-actions&label=&message=GitHub+Actions&color=36465D&logoColor=AAA&style=flat)
@@ -34,7 +34,7 @@
 &emsp;
 ![worksat-flexiw](https://img.shields.io/static/v1?label=@:&labelColor=111&message=FlexiW&color=36465D&style=flat)
 
-> 🎯 Technologies marked with _*_ are technologies that I'm learning or I want to learn.
+> 🎯 Technologies that I'm learning or I want to learn.
 
 **Software Engineer @ FlexiW** &#12299;_working on building APIs, container orchestration and automation._
 

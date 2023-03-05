@@ -7,10 +7,9 @@
 ![languages](https://img.shields.io/static/v1?label=&message=Languages:&color=111&style=flat)
 ![go](https://img.shields.io/static/v1?logo=go&label=&message=Go&color=36465D&logoColor=AAA&style=flat)
 ![typescript](https://img.shields.io/static/v1?logo=typescript&label=&message=TypeScript+🎯&color=36465D&logoColor=AAA&style=flat)
-![rust](https://img.shields.io/static/v1?logo=rust&label=&message=Rust+🎯&color=36465D&logoColor=AAA&style=flat)
+![python](https://img.shields.io/static/v1?logo=python&label=&message=Python+🎯&color=36465D&logoColor=AAA&style=flat)
 &emsp;
 ![scripting](https://img.shields.io/static/v1?label=&message=Scripting:&color=111&style=flat)
-![python](https://img.shields.io/static/v1?logo=python&label=&message=Python&color=36465D&logoColor=AAA&style=flat)
 ![bash](https://img.shields.io/static/v1?logo=gnu-bash&label=&message=Bash&color=36465D&logoColor=AAA&style=flat)
 &emsp;
 ![databases](https://img.shields.io/static/v1?label=&message=Databases:&color=111&style=flat)

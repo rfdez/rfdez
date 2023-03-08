@@ -7,7 +7,6 @@
 ![languages](https://img.shields.io/static/v1?label=&message=Languages:&color=111&style=flat)
 ![go](https://img.shields.io/static/v1?logo=go&label=&message=Go&color=36465D&logoColor=AAA&style=flat)
 ![typescript](https://img.shields.io/static/v1?logo=typescript&label=&message=TypeScript+🎯&color=36465D&logoColor=AAA&style=flat)
-![python](https://img.shields.io/static/v1?logo=python&label=&message=Python+🎯&color=36465D&logoColor=AAA&style=flat)
 &emsp;
 ![scripting](https://img.shields.io/static/v1?label=&message=Scripting:&color=111&style=flat)
 ![bash](https://img.shields.io/static/v1?logo=gnu-bash&label=&message=Bash&color=36465D&logoColor=AAA&style=flat)
@@ -25,11 +24,6 @@
 ![git](https://img.shields.io/static/v1?logo=git&label=&message=Git&color=36465D&logoColor=AAA&style=flat)
 ![docker](https://img.shields.io/static/v1?logo=docker&label=&message=Docker&color=36465D&logoColor=AAA&style=flat)
 ![kubernetes](https://img.shields.io/static/v1?logo=kubernetes&label=&message=Kubernetes&color=36465D&logoColor=AAA&style=flat)
-&emsp;
-![editors](https://img.shields.io/static/v1?label=&message=Editors:&color=111&style=flat)
-![vim](https://img.shields.io/static/v1?logo=vim&label=&message=Vim&color=36465D&logoColor=AAA&style=flat)
-![vscode](https://img.shields.io/static/v1?logo=visual-studio-code&label=&message=Visual+Studio+Code&color=36465D&logoColor=AAA&style=flat)
-![intellij-idea](https://img.shields.io/static/v1?logo=intellij-idea&label=&message=IntelliJ+IDEA&color=36465D&logoColor=AAA&style=flat)
 &emsp;
 ![worksat-flexiw](https://img.shields.io/static/v1?label=@:&labelColor=111&message=FlexiW&color=36465D&style=flat)
 

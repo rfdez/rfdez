@@ -15,7 +15,7 @@
 ![postgresql](https://img.shields.io/static/v1?logo=postgresql&label=&message=PostgreSQL&color=36465D&logoColor=AAA&style=flat)
 ![mongodb](https://img.shields.io/static/v1?logo=mongodb&label=&message=MongoDB+🎯&color=36465D&logoColor=AAA&style=flat)
 ![redis](https://img.shields.io/static/v1?logo=redis&label=&message=Redis+🎯&color=36465D&logoColor=AAA&style=flat)
-&emsp;
+<br>
 ![ci/cd](https://img.shields.io/static/v1?label=&message=CI/CD:&color=111&style=flat)
 ![actions](https://img.shields.io/static/v1?logo=github-actions&label=&message=GitHub+Actions&color=36465D&logoColor=AAA&style=flat)
 ![gitlab-ci](https://img.shields.io/static/v1?logo=gitlab&label=&message=GitLab+CI&color=36465D&logoColor=AAA&style=flat)
@@ -24,7 +24,7 @@
 ![git](https://img.shields.io/static/v1?logo=git&label=&message=Git&color=36465D&logoColor=AAA&style=flat)
 ![docker](https://img.shields.io/static/v1?logo=docker&label=&message=Docker&color=36465D&logoColor=AAA&style=flat)
 ![kubernetes](https://img.shields.io/static/v1?logo=kubernetes&label=&message=Kubernetes&color=36465D&logoColor=AAA&style=flat)
-&emsp;
+<br>
 ![worksat-flexiw](https://img.shields.io/static/v1?label=@:&labelColor=111&message=FlexiW&color=36465D&style=flat)
 
 > 🎯 Technologies that I'm learning or I want to learn.

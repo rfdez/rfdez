@@ -18,12 +18,15 @@
 <br>
 ![ci/cd](https://img.shields.io/static/v1?label=&message=CI/CD:&color=111&style=flat)
 ![actions](https://img.shields.io/static/v1?logo=github-actions&label=&message=GitHub+Actions&color=36465D&logoColor=AAA&style=flat)
-![gitlab-ci](https://img.shields.io/static/v1?logo=gitlab&label=&message=GitLab+CI&color=36465D&logoColor=AAA&style=flat)
 &emsp;
 ![tools](https://img.shields.io/static/v1?label=&message=Tools:&color=111&style=flat)
 ![git](https://img.shields.io/static/v1?logo=git&label=&message=Git&color=36465D&logoColor=AAA&style=flat)
 ![docker](https://img.shields.io/static/v1?logo=docker&label=&message=Docker&color=36465D&logoColor=AAA&style=flat)
 ![kubernetes](https://img.shields.io/static/v1?logo=kubernetes&label=&message=Kubernetes&color=36465D&logoColor=AAA&style=flat)
+&emsp;
+![setup](https://img.shields.io/static/v1?label=&message=Setup:&color=111&style=flat)
+![linux](https://img.shields.io/static/v1?logo=linux&label=&message=Linux&color=36465D&logoColor=AAA&style=flat)
+![vscode](https://img.shields.io/static/v1?logo=visualstudiocode&label=&message=VSCode&color=36465D&logoColor=AAA&style=flat)
 <br>
 ![worksat-flexiw](https://img.shields.io/static/v1?label=@:&labelColor=111&message=FlexiW&color=36465D&style=flat)
 

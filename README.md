@@ -32,7 +32,7 @@
 
 > 🎯 Technologies that I'm learning or I want to learn.
 
-**Software Engineer @ FlexiW** &#12299;_working on building APIs, container orchestration and automation._
+**Software Engineer @ BySidecar** &#12299;_working on building APIs, container orchestration and automation._
 
 ---
 

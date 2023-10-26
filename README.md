@@ -13,11 +13,12 @@
 &emsp;
 ![databases](https://img.shields.io/static/v1?label=&message=Databases:&color=111&style=flat)
 ![postgresql](https://img.shields.io/static/v1?logo=postgresql&label=&message=PostgreSQL&color=36465D&logoColor=AAA&style=flat)
-![mongodb](https://img.shields.io/static/v1?logo=mongodb&label=&message=MongoDB+🎯&color=36465D&logoColor=AAA&style=flat)
+![mariadb](https://img.shields.io/static/v1?logo=mariadb&label=&message=MariaDB&color=36465D&logoColor=AAA&style=flat)
 ![redis](https://img.shields.io/static/v1?logo=redis&label=&message=Redis+🎯&color=36465D&logoColor=AAA&style=flat)
 <br>
 ![ci/cd](https://img.shields.io/static/v1?label=&message=CI/CD:&color=111&style=flat)
 ![actions](https://img.shields.io/static/v1?logo=github-actions&label=&message=GitHub+Actions&color=36465D&logoColor=AAA&style=flat)
+![circleci](https://img.shields.io/static/v1?logo=circleci&label=&message=CircleCI&color=36465D&logoColor=AAA&style=flat)
 &emsp;
 ![tools](https://img.shields.io/static/v1?label=&message=Tools:&color=111&style=flat)
 ![git](https://img.shields.io/static/v1?logo=git&label=&message=Git&color=36465D&logoColor=AAA&style=flat)
@@ -25,10 +26,11 @@
 ![kubernetes](https://img.shields.io/static/v1?logo=kubernetes&label=&message=Kubernetes&color=36465D&logoColor=AAA&style=flat)
 &emsp;
 ![setup](https://img.shields.io/static/v1?label=&message=Setup:&color=111&style=flat)
+![macos](https://img.shields.io/static/v1?logo=macos&label=&message=MacOS&color=36465D&logoColor=AAA&style=flat)
 ![linux](https://img.shields.io/static/v1?logo=linux&label=&message=Linux&color=36465D&logoColor=AAA&style=flat)
 ![vscode](https://img.shields.io/static/v1?logo=visualstudiocode&label=&message=VSCode&color=36465D&logoColor=AAA&style=flat)
 <br>
-![worksat-flexiw](https://img.shields.io/static/v1?label=@:&labelColor=111&message=FlexiW&color=36465D&style=flat)
+![worksat-bysidecar](https://img.shields.io/static/v1?label=@:&labelColor=111&message=BySidecar&color=36465D&style=flat)
 
 > 🎯 Technologies that I'm learning or I want to learn.
 

@@ -6,7 +6,7 @@
 
 ![languages](https://img.shields.io/static/v1?label=&message=Languages:&color=111&style=flat)
 ![go](https://img.shields.io/static/v1?logo=go&label=&message=Go&color=36465D&logoColor=AAA&style=flat)
-![typescript](https://img.shields.io/static/v1?logo=typescript&label=&message=TypeScript+🎯&color=36465D&logoColor=AAA&style=flat)
+![typescript](https://img.shields.io/static/v1?logo=typescript&label=&message=TypeScript&color=36465D&logoColor=AAA&style=flat)
 &emsp;
 ![scripting](https://img.shields.io/static/v1?label=&message=Scripting:&color=111&style=flat)
 ![bash](https://img.shields.io/static/v1?logo=gnu-bash&label=&message=Bash&color=36465D&logoColor=AAA&style=flat)
@@ -18,7 +18,6 @@
 <br>
 ![ci/cd](https://img.shields.io/static/v1?label=&message=CI/CD:&color=111&style=flat)
 ![actions](https://img.shields.io/static/v1?logo=github-actions&label=&message=GitHub+Actions&color=36465D&logoColor=AAA&style=flat)
-![circleci](https://img.shields.io/static/v1?logo=circleci&label=&message=CircleCI&color=36465D&logoColor=AAA&style=flat)
 &emsp;
 ![tools](https://img.shields.io/static/v1?label=&message=Tools:&color=111&style=flat)
 ![git](https://img.shields.io/static/v1?logo=git&label=&message=Git&color=36465D&logoColor=AAA&style=flat)

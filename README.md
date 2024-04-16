@@ -37,10 +37,6 @@
 
 ---
 
-<a href="https://www.linkedin.com/in/rfdezdev/">
+<a href="https://www.linkedin.com/in/rfdez/">
   <img align="left" alt="Raúl's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
-</a>
-
-<a href="https://www.codewars.com/users/rfdez/">
-  <img align="left" alt="Raúl's Codewars" width="20px" src="https://simpleicons.now.sh/codewars/b1361e" />
 </a>

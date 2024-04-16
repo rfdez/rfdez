@@ -26,7 +26,6 @@
 &emsp;
 ![setup](https://img.shields.io/static/v1?label=&message=Setup:&color=111&style=flat)
 ![macos](https://img.shields.io/static/v1?logo=macos&label=&message=MacOS&color=36465D&logoColor=AAA&style=flat)
-![linux](https://img.shields.io/static/v1?logo=linux&label=&message=Linux&color=36465D&logoColor=AAA&style=flat)
 ![vscode](https://img.shields.io/static/v1?logo=visualstudiocode&label=&message=VSCode&color=36465D&logoColor=AAA&style=flat)
 <br>
 ![worksat-bysidecar](https://img.shields.io/static/v1?label=@:&labelColor=111&message=BySidecar&color=36465D&style=flat)

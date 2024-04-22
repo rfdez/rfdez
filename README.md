@@ -32,10 +32,10 @@
 
 > 🎯 Technologies that I'm learning or I want to learn.
 
-**Software Engineer @ BySidecar** &#12299;_working on building APIs, container orchestration and automation._
+**Backend Software Engineer @ BySidecar** &#12299;_working on building APIs, container orchestration and automation._
 
 ---
 
-<a href="https://www.linkedin.com/in/rfdez/">
+<a href="https://rfdez.me/linkedin">
   <img align="left" alt="Raúl's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
 </a>

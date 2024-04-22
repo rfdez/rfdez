@@ -36,6 +36,6 @@
 
 ---
 
-<a href="https://rfdez.me/linkedin">
+<a href="https://www.linkedin.com/in/rfdez">
   <img align="left" alt="Raúl's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
 </a>

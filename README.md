@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Raúl! 
 
-> &#12299;Backend who does not break the frontend and interested in DevOps culture. Aware of adopting good programming practices to build quality, maintainable and scalable code.
+> &#12299;Backend developer who doesn't break the frontend and is interested in DevOps culture. Always striving to implement good programming practices into my work method so that I can produce quality, maintainable, and scalable code.
 
 ---
 

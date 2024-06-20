@@ -32,7 +32,7 @@
 
 > 🎯 Technologies that I'm learning or I want to learn.
 
-**Backend Software Engineer @ BySidecar** &#12299;_working on building product, container orchestration and automation._
+**Backend Developer @ BySidecar** &#12299;_working on building product, container orchestration and automation._
 
 ---
 

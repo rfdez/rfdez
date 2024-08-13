@@ -10,7 +10,7 @@
 &emsp;
 ![scripting](https://img.shields.io/static/v1?label=&message=Scripting:&color=111&style=flat)
 ![bash](https://img.shields.io/static/v1?logo=gnu-bash&label=&message=Bash&color=36465D&logoColor=AAA&style=flat)
-![python](https://img.shields.io/static/v1?logo=python&label=&message=Python&color=36465D&logoColor=AAA&style=flat)
+![python](https://img.shields.io/static/v1?logo=python&label=&message=Python+🎯&color=36465D&logoColor=AAA&style=flat)
 &emsp;
 ![databases](https://img.shields.io/static/v1?label=&message=Databases:&color=111&style=flat)
 ![postgresql](https://img.shields.io/static/v1?logo=postgresql&label=&message=PostgreSQL&color=36465D&logoColor=AAA&style=flat)
@@ -28,7 +28,7 @@
 &emsp;
 ![setup](https://img.shields.io/static/v1?label=&message=Setup:&color=111&style=flat)
 ![macos](https://img.shields.io/static/v1?logo=macos&label=&message=MacOS&color=36465D&logoColor=AAA&style=flat)
-![intellijidea](https://img.shields.io/static/v1?logo=intellijidea&label=&message=IntelliJ+IDEA&color=36465D&logoColor=AAA&style=flat)
+![vscode](https://img.shields.io/static/v1?logo=visual-studio-code&label=&message=Visual+Studio+Code&color=36465D&logoColor=AAA&style=flat)
 <br>
 ![worksat-bysidecar](https://img.shields.io/static/v1?label=@:&labelColor=111&message=BySidecar&color=36465D&style=flat)
 

@@ -34,7 +34,7 @@
 
 > 🎯 Technologies that I'm learning or I want to learn.
 
-**Backend Developer @ BySidecar** &#12299;_working on building product, container orchestration and automation._
+**Backend Developer @ Coinscrap Finance** &#12299;_working on building product, container orchestration and automation._
 
 ---
 

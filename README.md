@@ -30,7 +30,7 @@
 ![macos](https://img.shields.io/static/v1?logo=macos&label=&message=MacOS&color=36465D&logoColor=AAA&style=flat)
 ![vscode](https://img.shields.io/static/v1?logo=visual-studio-code&label=&message=Visual+Studio+Code&color=36465D&logoColor=AAA&style=flat)
 <br>
-![worksat-bysidecar](https://img.shields.io/static/v1?label=@:&labelColor=111&message=BySidecar&color=36465D&style=flat)
+![worksat-bysidecar](https://img.shields.io/static/v1?label=@:&labelColor=111&message=CoinscrapFinance&color=36465D&style=flat)
 
 > 🎯 Technologies that I'm learning or I want to learn.
 

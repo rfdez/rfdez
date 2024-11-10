@@ -39,4 +39,3 @@
 
 ---
 [![Raúl's LinkedIn](https://github.com/user-attachments/assets/f12d1d29-ab37-49ce-9616-d5fab7c74c69)](https://www.linkedin.com/in/rfdez)
-[![Raúl's Website](https://github.com/user-attachments/assets/8daffb17-bd50-47b3-9ea1-412de9dd05ca)](https://www.raulfernandez.me)
